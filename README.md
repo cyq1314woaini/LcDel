@@ -38,4 +38,11 @@ min_support: minimum support read threshold
 eg:python LcDel.py /bampath 10 /outpath 10/5/3/2/
 ``` 
 
+## Tested data
+The data can be downloaded from:
+
+### HG002 long read data
+```
+https://ftp.ncbi.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/PacBio_MtSinai_NIST/Baylor_NGMLR_bam_GRCh37/HG002_PB_70x_RG_HP10XtrioRTG.bam
+```
 
