@@ -15,3 +15,5 @@ conda activate LcDel
 conda deactivate
 ```
 
+### 2. clone LcDel
+* After creating and activating the LcDel virtual environment, download LcDel from github:
